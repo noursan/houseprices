@@ -1,5 +1,4 @@
-# House Prices
-## Regression techniques ML
+## House Prices - Regression techniques ML
 
 This project is focused on predicting the sale prices of houses by means of regression techniques based on a series of characteristic features.
 
